@@ -8,7 +8,7 @@ This work is now under review in *Nature Genetics*.
 We published the essential codes of the work here to help others to review or replicate our findings.
 
 ## Outline
-There are 5 major analysis tasks in this project:
+There are 5 major analysis catagories in this project:
 
 **1. Genotyping data analysis**
 
@@ -23,5 +23,5 @@ There are 5 major analysis tasks in this project:
 The full summary results of GWAS have been submitted to GWAS catalog (https://www.ebi.ac.uk/gwas/). Access number: GCP000228.
 
 
-##*If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au :australia:* 
+## *If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au :australia:* 
 
