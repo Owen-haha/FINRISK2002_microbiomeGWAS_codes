@@ -20,7 +20,7 @@ The analysis can be grouped into 5 major catagories:
 
 **5. Cox-regression**
 
-The full summary results of GWAS have been submitted to GWAS catalog (https://www.ebi.ac.uk/gwas/). Access number: GCP000228.
+The full GWAS summary results from this project have been submitted to GWAS catalog (https://www.ebi.ac.uk/gwas/). Access number: GCP000228.
 
 
 ## *If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au :australia:* 
