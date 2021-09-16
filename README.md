@@ -3,7 +3,7 @@ Essential codes of FINRISK2002 :poop: microbiome genome-wide association study (
 
 The corresponding pre-print can be found at https://doi.org/10.1101/2020.09.12.20193045 (Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort).
 
-This work is now under review in *Nature Genetics*.
+This work is now under review in *Nature Genetics* (accepted in principle).
 
 We published the essential codes of the work here to help others to review or replicate our findings.
 
