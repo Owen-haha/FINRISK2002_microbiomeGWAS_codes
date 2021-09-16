@@ -10,9 +10,9 @@ We published the essential codes of the work here to help others to review or re
 ## Outline
 There are 5 major analysis tasks in this project:
 
-**1. Genotyping data processing**
+**1. Genotyping data analysis**
 
-**2. Metagenomic sequencing data processing**
+**2. Metagenomic sequencing data analysis**
 
 **3. Genome-wide association test**
 
