@@ -1,4 +1,4 @@
-# FINRISK2002_microbiomeGWAS_codes
+# :finland: FINRISK2002_microbiomeGWAS_codes
 Essential codes of FINRISK2002 :poop: microbiome genome-wide association study (GWAS) project.
 
 The corresponding pre-print can be found at https://doi.org/10.1101/2020.09.12.20193045 (Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort).
@@ -20,7 +20,8 @@ There are 5 major analysis tasks in this project:
 
 **5. Cox-regression**
 
-The full summary results of GWAS have been submitted to GWAS catalog (https://www.ebi.ac.uk/gwas/). Access number: XXXX.
+The full summary results of GWAS have been submitted to GWAS catalog (https://www.ebi.ac.uk/gwas/). Access number: GCP000228.
 
-*If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au.*
+
+##*If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au :australia:* 
 
