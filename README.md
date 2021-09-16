@@ -20,4 +20,7 @@ There are 5 major analysis tasks in this project:
 
 **5. Cox-regression**
 
+The full summary results of GWAS has been submitted to GWAS catalog (https://www.ebi.ac.uk/gwas/). Access number: XXXX.
+
 *If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au.*
+
