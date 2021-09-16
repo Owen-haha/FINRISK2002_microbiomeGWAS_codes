@@ -20,3 +20,4 @@ There are 5 major analysis tasks in this project:
 
 **5. Cox-regression**
 
+*If you have any questions, pleae feel free to write to youwen.qin@baker.edu.au.*
