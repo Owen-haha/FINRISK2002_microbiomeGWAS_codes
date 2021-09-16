@@ -7,7 +7,7 @@ This work is now under review in *Nature Genetics*.
 
 We published the essential codes of the work here to help others to review or replicate our findings.
 
-# Outline
+## Outline
 There are 5 major analysis tasks in this project:
 
 **1. Genotyping data processing**
