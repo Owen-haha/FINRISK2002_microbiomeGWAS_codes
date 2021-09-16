@@ -8,7 +8,7 @@ This work is now under review in *Nature Genetics*.
 We published the essential codes of the work here to help others to review or replicate our findings.
 
 ## Outline
-There are 5 major analysis catagories in this project:
+The analysis can be grouped into 5 major catagories:
 
 **1. Genotyping data analysis**
 
