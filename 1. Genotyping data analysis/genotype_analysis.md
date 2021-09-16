@@ -45,8 +45,9 @@ LD-filtering: many SNPs are highly assocaited (in linkage disequilibrium), the P
 
 Remove long-range LD regions: some genomic regions have long-range LD which will bias the analysis.
 
-_LongRangeLDRegions.txt_ (reference genome GRch38):
-```1 47534328 51534328 region1
+_LongRangeLDRegions.txt_ (coordinations are based on reference genome GRch38, plink-friendly file format):
+```
+1 47534328 51534328 region1
 2 133742429 137242430 region2
 2 182135273 189135274 region3
 3 47458510 49962567 region4
@@ -79,6 +80,17 @@ Run PCA: ```flashpca_x86-64 --bfile fr02_all_rmLrld_pruned_r01 --suffix _rmLrld_
 
 ANNOVAR v2018Apr16 (https://annovar.openbioinformatics.org/en/latest/) was used to annotate SNPs of interst.
 
--
--
-**_Sex chromosomes (X and Y) were not considered in the projects._**
+Commands:
+
+```
+perl annotate_variation.pl -geneanno -dbtype refGene -buildver hg38 SNP_avinput path_to_annova_humandb
+perl annotate_variation.pl -regionanno -dbtype cytoBand -buildver hg38 SNP_avinput path_to_annova_humandb
+```
+_path_to_annova_humandb_ is the path of ANNOVAR installed folder.
+
+The fist command is to add gene (functional) information for input SNPs.
+
+The second command is to add cytoBand information for input SNPs.
+
+
+# :thought_balloon: **_Sex chromosomes (X and Y) were not considered throughout the project_** :thought_balloon:
