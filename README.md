@@ -1,5 +1,5 @@
 # FINRISK2002_microbiomeGWAS_codes
-Essential codes of FINRISK2002 microbiome genome-wide association study (GWAS) project.
+Essential codes of FINRISK2002 :poop: microbiome genome-wide association study (GWAS) project.
 
 The corresponding pre-print can be found at https://doi.org/10.1101/2020.09.12.20193045 (Combined effects of host genetics and diet on human gut microbiota and incident disease in a single population cohort).
 
